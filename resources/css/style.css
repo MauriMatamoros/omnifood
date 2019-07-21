@@ -255,6 +255,21 @@ header {
     border-bottom: 2px solid #e67e22;
 }
 
+/* MOBILE NAV */
+
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+    border: 0;
+}
+
+.mobile-nav-icon i {
+    font-size: 200%;
+    color: #fff;
+}
+
 /* STICKY NAV */
 
 .sticky {
